@@ -31,14 +31,14 @@ There are many types of trees.
 
   ![tree_RegularStructure](https://miro.medium.com/v2/1*J6vjQJnrjVGkLyO7IpSulg.png)
 
-    > [!NOTE]
-    > Each child cannot have more than 2 child nodes.
+> [!NOTE]
+> Each child cannot have more than 2 child nodes.
 
 - #### Binary Search Tree (BST)
     ![tree_BSTStructure](https://media.geeksforgeeks.org/wp-content/uploads/BST.png)
-    
-    > [!NOTE]
-    > Each left child node must be less than the parent node, and each right child node must be greater than the parent node.
+
+> [!NOTE]
+> Each left child node must be less than the parent node, and each right child node must be greater than the parent node.
 <br> <br>
 ### Coding Part
 
