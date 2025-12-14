@@ -7,8 +7,9 @@
 - Parent Node
 - Child Nodes
 
-> [!IMPORTANT] <br>
-> Child Nodes cannot be interconnected.
+
+> <span style="color: #FFE054; font-weight: bold">IMPORTANT! : <br>
+> Child Nodes cannot be interconnected.</span>
 
 _Here you have an example of a basic tree structure:_
 
@@ -28,14 +29,14 @@ There are many types of trees.
 
   ![tree_RegularStructure](https://miro.medium.com/v2/1*J6vjQJnrjVGkLyO7IpSulg.png)
 
-    > [!NOTE] <br>
-    > Each child cannot have more than 2 child nodes.
+    > <span style="color: #29E8FF; font-weight: bold">NOTE: <br>
+    > Each child cannot have more than 2 child nodes.</span>
 
 - #### Binary Search Tree (BST)
     ![tree_BSTStructure](https://media.geeksforgeeks.org/wp-content/uploads/BST.png)
     
-    > [!NOTE] <br>
-    > Each left child node must be less than the parent node, and each right child node must be greater than the parent node.
+    > <span style="color: #29E8FF; font-weight: bold">NOTE: <br>
+    > Each left child node must be less than the parent node, and each right child node must be greater than the parent node.</span>
 <br> <br>
 ### Coding Part
 
@@ -122,17 +123,17 @@ For example, given the following tree:
 As you can see, the DFS traversal would visit the nodes in this order. <br>
 This means that it goes __as deep as possible down__ one path before _backtracking_ and _exploring_ other paths.
 <br>
-> [!IMPORTANT] <br>
+> <span style="color: #FFE054; font-weight: bold">IMPORTANT! :<br>
 > BFS: priorizes width search <br>
-> DFS: priorizes depth search
+> DFS: priorizes depth search</span>
 
 #### <ins>Types of DFS(Depth-First Search Algorithms):</ins>
 - Pre-order Traversal <span style = "color: orange">(Data -> Left -> Right)</span>
 - In-order Traversal <span style = "color: orange">(Left -> Data -> Right)</span>
 - Post-order Traversal <span style = "color: orange">(Left -> Right -> Data)</span>
 
-> [!IMPORTANT]<br>
-> In order to understand better how each DFS algorithm works, it's recommended review how recursivity functions work.
+> <span style="color: #FFE054; font-weight: bold">IMPORTANT! :<br>
+> In order to understand better how each DFS algorithm works, it's recommended review how recursivity functions work.</span>
 
 Let's print the tree using <ins>pre-order traversal</ins>. For example, given the following tree:
 ```
