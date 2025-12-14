@@ -1,4 +1,6 @@
 # Summary ahead of the Second PRA Practice Exam 25/26
+In this summary, we will cover the main concepts related to trees, including their structure, types, and traversal algorithms such as BFS and DFS.
+
 
 ## Trees
 
