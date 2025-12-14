@@ -68,6 +68,7 @@ To insert a new node **at the front** of the Linked List, we need to:
 3. Move head of the list to point to the newNode
 
 ![img_insertAtFront](https://media.geeksforgeeks.org/wp-content/uploads/20240222162726/Insertion-at-the-Beginning-of-Singly-Linked-List.webp)
+
 How you can implement it in C++:
 ```c++
 void insertAtFront(Node** head, int newValue){
