@@ -201,10 +201,7 @@ void printTreePostOrder(Node*root){
     cout << root->data << endl;         // Visit the root
 }
 ```
-<<<<<<< HEAD
 
 ### Author:
 - **Name**: Sergio Real Gonzalvo
 - **Email**: sergiete.real@gmail.com
-=======
->>>>>>> 033190e3e50e867c295b29ab19c212870e3f87e0
